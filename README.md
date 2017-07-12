@@ -2,7 +2,7 @@
 
 ### Getting started
 
-1. Open dist/index.html in browser
+1. Open index.html in browser
 
 
 #### Usage
