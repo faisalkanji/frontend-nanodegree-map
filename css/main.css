@@ -1,0 +1,21 @@
+.container {
+    font-family: Ariel;
+    font-size: 16px;
+    background-color: #778899
+}
+
+.title {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.list {
+    list-style: none;
+    color: white;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+}
+
